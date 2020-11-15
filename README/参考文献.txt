@@ -1,0 +1,6 @@
+主要参考文献
+1.房间声学原理与Schroeder混响算法实现
+https://blog.csdn.net/icoolmedia/article/details/51330460
+2.虚拟立体声系统研究_才思远
+3.混响音效原理和解析
+https://www.audioapp.cn/forum.php?mod=viewthread&tid=161558
